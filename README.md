@@ -8,7 +8,7 @@ This is a simple card design using CSS3 effects like gradient background, box-sh
 - Modern UI
 
 ## Preview:
-![Card Screenshot](images/card.jpg)
+![Card Screenshot](card.jpg)
 
 ## How to Use:
 Just open `index.html` in your browser to view the design.
